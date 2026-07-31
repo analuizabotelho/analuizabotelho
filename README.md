@@ -1,4 +1,6 @@
-<h1 align="center">Olá, eu sou a Ana 👋</h1>
+![Banner](./assets/banner.png)
+
+<h1 align="center">Ana Botelho</h1>
 
 <p align="center">
 Estudante de Ciência da Computação | Databases & Dev
@@ -41,11 +43,3 @@ Sistema de HelpDesk desenvolvido em grupo, com artefatos de Scrum/Agile (DoR, Do
 **[sabor-local-flutterflow](https://github.com/analuizabotelho/sabor-local-flutterflow)**
 Web app mobile-first construído com FlutterFlow como parte de um projeto de aprendizado low/no-code.
 `FlutterFlow`
-
----
-
-### 📊 Atividade
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=analuizabotelho&show_icons=true&theme=dark" />
-</p>
