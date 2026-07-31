@@ -1,6 +1,5 @@
 ![Banner](./assets/banner.png)
 
-<h1 align="center">Ana Botelho</h1>
 
 <p align="center">
 Estudante de Ciência da Computação | Databases & Dev
