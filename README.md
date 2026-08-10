@@ -36,7 +36,7 @@ MVP web mobile-first para bartenders e entusiastas de coquetelaria. Catálogo de
 `Xano` · `Banco de dados`
 
 **[edu-track-ai](https://github.com/analuizabotelho/edu-track-ai)**
-Sistema de HelpDesk desenvolvido em grupo, com artefatos de Scrum/Agile (DoR, DoD, user stories) e backend em Xano.
+App de agenda e organização acadêmica para estudantes. Atuei na modelagem do banco de dados no Xano, desenvolvimento de CRUDs e debugging em XanoScript.
 `Streamlit` · `Xano` · `Python`
 
 **[sabor-local-flutterflow](https://github.com/analuizabotelho/sabor-local-flutterflow)**
