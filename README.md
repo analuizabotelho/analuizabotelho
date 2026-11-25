@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Estudante de Ciência da Computação | Databases & Dev
+Estudante de Ciência da Computação | Databases, Dev & Análise de Dados
 </p>
 
 ---
@@ -13,7 +13,7 @@ Estudante de Ciência da Computação | Databases & Dev
 - 💾 Foco em **banco de dados** e **desenvolvimento**
 - 🌱 Participo do programa de mentoria **Tech'n Roses** (Avanade + Impacta)
 - 🔄 Migrei de carreira para tecnologia depois de atuar com moda e gestão de restaurantes em Lisboa
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/analuizabotelho/) · [E-mail](analubotelho@hotmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/analuizabotelho/) · [E-mail](mailto:analubotelho@hotmail.com)
 
 ---
 
